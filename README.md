@@ -1,4 +1,4 @@
-# Calculator
+# CODSOFT_TASK3
 
 This is a web Calculator which simply do mathematical operations like (+, -, *, /).
 
